@@ -9,14 +9,11 @@
  
 I did an Investigation Report for this specific case as part of my learning journey, you can find it on my GitHub in PDF format.
  
----
-
 <img width="1760" height="990" alt="Copy of All rights reserved to 0xM4R7YR (1)" src="https://github.com/user-attachments/assets/fcfe14f8-7d67-45d7-b903-1a2f87c4cbeb" />
 
  
 ## ⚠️ Before Reading Please Read
- 
-For a Q&A styled investigation walkthrough, please feel free to check my **Medium Writeup** where I solve the same investigation — Q&A Style.
+ For a Q&A styled investigation walkthrough, please feel free to check my **Medium Writeup** where I solve the same investigation — Q&A Style.
  
 ---
  
