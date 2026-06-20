@@ -2,18 +2,18 @@
  
 > **Spearphishing, Credential Harvesting, and Data Exfiltration at CloutHaus**
 >
-> Analyst: Muhammad Essam · Handle: 0xM4R7YR · Severity: HIGH · Status: CONTAINED
+> Analyst: Muhammad Essam · Handle: [0xM4R7YR](https://github.com/0xM4R7YR) · Severity: HIGH · Status: CONTAINED
  
 ---
 ## Investigation Report Documentation
  
-I did an Investigation Report for this specific case as part of my learning journey, you can find it on my **GitHub**[https://medium.com/@0xm4r7yr/clouthaus-investigative-walkthrough-5d429d46910e] in PDF format.
+I did an Investigation Report for this specific case as part of my learning journey, you can find it on my [**GitHub**](https://medium.com/@0xm4r7yr/clouthaus-investigative-walkthrough-5d429d46910e) in PDF format.
  
-<img width="1760" height="990" alt="Copy of All rights reserved to 0xM4R7YR (1)" src="https://github.com/user-attachments/assets/fcfe14f8-7d67-45d7-b903-1a2f87c4cbeb" />
+[<img width="1760" height="990" alt="Copy of All rights reserved to 0xM4R7YR (1)" src="https://github.com/user-attachments/assets/fcfe14f8-7d67-45d7-b903-1a2f87c4cbeb" />](https://medium.com/@0xm4r7yr/clouthaus-investigative-walkthrough-5d429d46910e)
 
  
 ## ⚠️ Before Reading Please Read
- For a Q&A styled investigation walkthrough, please feel free to check my **Medium Writeup** where I solve the same investigation — Q&A Style.
+ For a Q&A styled investigation walkthrough, please feel free to check my [**Medium Writeup**](https://medium.com/@0xm4r7yr/clouthaus-investigative-walkthrough-5d429d46910e) where I solve the same investigation — Q&A Style.
  
 ---
  
