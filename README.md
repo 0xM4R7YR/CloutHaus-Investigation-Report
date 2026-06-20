@@ -5,7 +5,6 @@
 > Analyst: Muhammad Essam · Handle: 0xM4R7YR · Severity: HIGH · Status: CONTAINED
  
 ---
- 
 ## Investigation Report Documentation
  
 I did an Investigation Report for this specific case as part of my learning journey, you can find it on my GitHub in PDF format.
