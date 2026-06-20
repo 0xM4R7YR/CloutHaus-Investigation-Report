@@ -7,7 +7,7 @@
 ---
 ## Investigation Report Documentation
  
-I did an Investigation Report for this specific case as part of my learning journey, you can find it on my GitHub in PDF format.
+I did an Investigation Report for this specific case as part of my learning journey, you can find it on my **GitHub**[https://medium.com/@0xm4r7yr/clouthaus-investigative-walkthrough-5d429d46910e] in PDF format.
  
 <img width="1760" height="990" alt="Copy of All rights reserved to 0xM4R7YR (1)" src="https://github.com/user-attachments/assets/fcfe14f8-7d67-45d7-b903-1a2f87c4cbeb" />
 
